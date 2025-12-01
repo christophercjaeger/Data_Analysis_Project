@@ -4,7 +4,7 @@ A data analysis project working with food sales data across 2 years
 ## This Project inclues multiple sections
 
 ## Data
-A CSV file containing raw food/merchandise sales data from a fictional team/stadium
+An Excel file containing raw food/merchandise sales data from a fictional team/stadium
 
 ## Excel 
 An Excel file containining the dataset, but also containing answers to prompts and data calcuations
